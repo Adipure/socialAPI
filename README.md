@@ -23,10 +23,12 @@ type nodemon in your VScode Terminal
 This project is covered under the Unlicense
 
 ## Contributing
-Me ma self and i
+
 
 ## Tests
-Please see attached video
+Please see attached youtube video
+
+https://youtu.be/rrBhmk9KDRM
 
 ## Questions
 - GitHub: [https://github.com/adipure](https://github.com/adipure)
